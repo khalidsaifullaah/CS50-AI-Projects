@@ -1,10 +1,10 @@
 # CS50AI
 
-### All the projects that I've completed for [CS50's Introduction to Artificial Intelligence with Python](https://www.edx.org/course/cs50s-introduction-to-artificial-intelligence-with-python).
+## All the projects that I've completed for [CS50's Introduction to Artificial Intelligence with Python](https://www.edx.org/course/cs50s-introduction-to-artificial-intelligence-with-python).
 
 > ***This course explores the concepts and algorithms at the foundation of modern artificial intelligence, diving into the ideas that give rise to technologies like game-playing engines, handwriting recognition, and machine translation. Through hands-on projects, students gain exposure to the theory behind graph search algorithms, classification, optimization, reinforcement learning, and other topics in artificial intelligence and machine learning as they incorporate them into their own Python programs.***
 
-### Projects Tree
+## Projects Tree
  - #### Lecture 1 -  Search:
     - [Degrees](https://cs50.harvard.edu/ai/projects/0/degrees/)
         - **Problem Statement :** `Write a program that determines how many “degrees of separation” apart two actors are.`
