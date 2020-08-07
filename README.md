@@ -4,7 +4,7 @@
 
 > ***This course explores the concepts and algorithms at the foundation of modern artificial intelligence, diving into the ideas that give rise to technologies like game-playing engines, handwriting recognition, and machine translation. Through hands-on projects, students gain exposure to the theory behind graph search algorithms, classification, optimization, reinforcement learning, and other topics in artificial intelligence and machine learning as they incorporate them into their own Python programs.***
 
-## Projects Tree
+## Projects Chronology
  - #### Lecture 0 -  Search:
     - [Project 0a : Degrees](https://cs50.harvard.edu/ai/projects/0/degrees/)
         - **Problem Statement :** `Write a program that determines how many “degrees of separation” apart two actors are.`
