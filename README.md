@@ -13,7 +13,7 @@
         - **Problem Statement :** `Using Minimax, implement an AI to play Tic-Tac-Toe optimally.`
         - **Project Demo** : [Youtube](https://www.youtube.com/)
   - #### Lecture 1 - Knowledge:
-    - [Project 1b : Knights](https://cs50.harvard.edu/ai/projects/1/knights/)
+    - [Project 1a : Knights](https://cs50.harvard.edu/ai/projects/1/knights/)
         - **Problem Statement :** `Write a program to solve logic puzzles.`
         - **Project Demo** : [Youtube](https://www.youtube.com/)
     - [Project 1b : Minesweeper](https://cs50.harvard.edu/ai/projects/1/minesweeper/)
